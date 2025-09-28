@@ -1,0 +1,23 @@
+{
+  "name": "@gabrieldcelery/demo-github-packages",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/GabrielDCelery/demo-github-packages#readme",
+  "bugs": {
+    "url": "https://github.com/GabrielDCelery/demo-github-packages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielDCelery/demo-github-packages.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "@gabrieldcelery": "https://npm.pkg.github.com"
+  }
+}
